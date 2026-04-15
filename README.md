@@ -19,4 +19,4 @@ I’m a **web developer** focused on building clean, responsive, and user-friend
 
 ---
 
-⭐ Feel free to check out my repositories and follow my work!
+⭐ Feel free to check out my repositories and follow my studies!
